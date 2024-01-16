@@ -1,0 +1,279 @@
+[
+    {
+        "CSE": [
+            {
+                "L-1-S-1": [
+                    {"name": "CSE 101", "credit": 2, "id": 1},
+                    {"name": "CSE 103", "credit": 3, "id": 2},
+                    {"name": "CSE 107", "credit": 2, "id": 3},
+                    {"name": "CSE 133", "credit": 2, "id": 4},
+                    {"name": "CSE 132", "credit": 2, "id": 5},
+                    {"name": "CSE 135", "credit": 3, "id": 6},
+                    {"name": "CSE 137", "credit": 3, "id": 7}
+                ]
+            },
+            {
+                "L-1-S-2": [
+                    {"name": "CSE 151", "credit": 3, "id": 8},
+                    {"name": "CSE 153", "credit": 3, "id": 9},
+                    {"name": " CSE 163", "credit": 2, "id": 10},
+                    {"name": "CSE 171", "credit": 2, "id": 11},
+                    {"name": "CSE 175", "credit": 2, "id": 12},
+                    {"name": "CSE 185", "credit": 3, "id": 13},
+                    {"name": "CSE 187", "credit": 3, "id": 14}
+                ]
+            },
+            {
+                "L-2-S-1": [
+                    {"name": "CSE 201", "credit": 3, "id": 15},
+                    {"name": "CSE 203", "credit": 3, "id": 16},
+                    {"name": "CSE 207", "credit": 2, "id": 17},
+                    {"name": "CSE 213", "credit": 2, "id": 18},
+                    {"name": "CSE 215", "credit": 2, "id": 19},
+                    {"name": "CSE 223", "credit": 3, "id": 20},
+                    {"name": "CSE 227", "credit": 3, "id": 21}
+                ]
+            },
+            {
+                "L-2-S-2": [
+                    {"name": "CSE 251", "credit": 3, "id": 22},
+                    {"name": "CSE 253", "credit": 3, "id": 23},
+                    {"name": " CSE 263", "credit": 2, "id": 24},
+                    {"name": "CSE 271", "credit": 2, "id": 25},
+                    {"name": "CSE 275", "credit": 2, "id": 26},
+                    {"name": "CSE 283", "credit": 3, "id": 27},
+                    {"name": "CSE 287", "credit": 3, "id": 28}
+                ]
+            },
+            {
+                "L-3-S-1": [
+                    {"name": "CSE 301", "credit": 3, "id": 29},
+                    {"name": "CSE 303", "credit": 3, "id": 30},
+                    {"name": "CSE 307", "credit": 2, "id": 31},
+                    {"name": "CSE 313", "credit": 2, "id": 32},
+                    {"name": "CSE 315", "credit": 2, "id": 33},
+                    {"name": "CSE 323", "credit": 3, "id": 34},
+                    {"name": "CSE 327", "credit": 3, "id": 35}
+                ]
+            },
+            {
+                "L-3-S-2": [
+                    {"name": "CSE 351", "credit": 3, "id": 36},
+                    {"name": "CSE 353", "credit": 3, "id": 37},
+                    {"name": " CSE 363", "credit": 2, "id": 38},
+                    {"name": "CSE 371", "credit": 2, "id": 39},
+                    {"name": "CSE 375", "credit": 2, "id": 40},
+                    {"name": "CSE 385", "credit": 3, "id": 41},
+                    {"name": "CSE 387", "credit": 3, "id": 42}
+                ]
+            },
+            {
+                "L-4-S-1": [
+                    {"name": "CSE 401", "credit": 3, "id": 43},
+                    {"name": "CSE 403", "credit": 3, "id": 44},
+                    {"name": "CSE 407", "credit": 2, "id": 45},
+                    {"name": "CSE 413", "credit": 2, "id": 46},
+                    {"name": "CSE 415", "credit": 2, "id": 47},
+                    {"name": "CSE 423", "credit": 3, "id": 48},
+                    {"name": "CSE 427", "credit": 3, "id": 49}
+                ]
+            },
+            {
+                "L-4-S-2": [
+                    {"name": "CSE 451", "credit": 3, "id": 50},
+                    {"name": "CSE 453", "credit": 3, "id": 51},
+                    {"name": " CSE 463", "credit": 2, "id": 52},
+                    {"name": "CSE 471", "credit": 2, "id": 53},
+                    {"name": "CSE 475", "credit": 2, "id": 54},
+                    {"name": "CSE 483", "credit": 3, "id": 55},
+                    {"name": "CSE 487", "credit": 3, "id": 56}
+                ]
+            }
+        ]
+    },
+    {
+        "ECE": [
+            {
+                "L-1-S-1": [
+                    {"name": "ECE 101", "credit": 2, "id": 57},
+                    {"name": "ECE 103", "credit": 3, "id": 58},
+                    {"name": "ECE 107", "credit": 2, "id": 59},
+                    {"name": "ECE 133", "credit": 2, "id": 60},
+                    {"name": "ECE 132", "credit": 2, "id": 61},
+                    {"name": "ECE 135", "credit": 3, "id": 62},
+                    {"name": "ECE 137", "credit": 3, "id": 63}
+                ]
+            },
+            {
+                "L-1-S-2": [
+                    {"name": "ECE 151", "credit": 3, "id": 64},
+                    {"name": "ECE 153", "credit": 3, "id": 65},
+                    {"name": " ECE 163", "credit": 2, "id": 66},
+                    {"name": "ECE 171", "credit": 2, "id": 67},
+                    {"name": "ECE 175", "credit": 2, "id": 68},
+                    {"name": "ECE 185", "credit": 3, "id": 69},
+                    {"name": "ECE 187", "credit": 3, "id": 70}
+                ]
+            },
+            {
+                "L-2-S-1": [
+                    {"name": "ECE 201", "credit": 3, "id": 71},
+                    {"name": "ECE 203", "credit": 3, "id": 72},
+                    {"name": "ECE 207", "credit": 2, "id": 73},
+                    {"name": "ECE 213", "credit": 2, "id": 74},
+                    {"name": "ECE 215", "credit": 2, "id": 75},
+                    {"name": "ECE 223", "credit": 3, "id": 76},
+                    {"name": "ECE 227", "credit": 3, "id": 77}
+                ]
+            },
+            {
+                "L-2-S-2": [
+                    {"name": "ECE 251", "credit": 3, "id": 78},
+                    {"name": "ECE 253", "credit": 3, "id": 79},
+                    {"name": " ECE 263", "credit": 2, "id": 80},
+                    {"name": "ECE 271", "credit": 2, "id": 81},
+                    {"name": "ECE 275", "credit": 2, "id": 82},
+                    {"name": "ECE 283", "credit": 3, "id": 83},
+                    {"name": "ECE 287", "credit": 3, "id": 84}
+                ]
+            },
+            {
+                "L-3-S-1": [
+                    {"name": "ECE 301", "credit": 3, "id": 85},
+                    {"name": "ECE 303", "credit": 3, "id": 86},
+                    {"name": "ECE 307", "credit": 2, "id": 87},
+                    {"name": "ECE 313", "credit": 2, "id": 88},
+                    {"name": "ECE 315", "credit": 2, "id": 89},
+                    {"name": "ECE 323", "credit": 3, "id": 90},
+                    {"name": "ECE 327", "credit": 3, "id": 91}
+                ]
+            },
+            {
+                "L-3-S-2": [
+                    {"name": "ECE 351", "credit": 3, "id": 92},
+                    {"name": "ECE 353", "credit": 3, "id": 93},
+                    {"name": " ECE 363", "credit": 2, "id": 94},
+                    {"name": "ECE 371", "credit": 2, "id": 95},
+                    {"name": "ECE 375", "credit": 2, "id": 96},
+                    {"name": "ECE 385", "credit": 3, "id": 97},
+                    {"name": "ECE 387", "credit": 3, "id": 98}
+                ]
+            },
+            {
+                "L-4-S-1": [
+                    {"name": "ECE 401", "credit": 3, "id": 99},
+                    {"name": "ECE 403", "credit": 3, "id": 100},
+                    {"name": "ECE 407", "credit": 2, "id": 101},
+                    {"name": "ECE 413", "credit": 2, "id": 102},
+                    {"name": "ECE 415", "credit": 2, "id": 103},
+                    {"name": "ECE 423", "credit": 3, "id": 104},
+                    {"name": "ECE 427", "credit": 3, "id": 105}
+                ]
+            },
+            {
+                "L-4-S-2": [
+                    {"name": "ECE 451", "credit": 3, "id": 106},
+                    {"name": "ECE 453", "credit": 3, "id": 107},
+                    {"name": " ECE 463", "credit": 2, "id": 108},
+                    {"name": "ECE 471", "credit": 2, "id": 109},
+                    {"name": "ECE 475", "credit": 2, "id": 110},
+                    {"name": "ECE 483", "credit": 3, "id": 111},
+                    {"name": "ECE 487", "credit": 3, "id": 112}
+                ]
+            }
+        ]
+    },
+    {
+        "EEE": [
+            {
+                "L-1-S-1": [
+                    {"name": "EEE 101", "credit": 2, "id": 113},
+                    {"name": "EEE 103", "credit": 3, "id": 114},
+                    {"name": "EEE 107", "credit": 2, "id": 115},
+                    {"name": "EEE 133", "credit": 2, "id": 116},
+                    {"name": "EEE 132", "credit": 2, "id": 117},
+                    {"name": "EEE 135", "credit": 3, "id": 118},
+                    {"name": "EEE 137", "credit": 3, "id": 119}
+                ]
+            },
+            {
+                "L-1-S-2": [
+                    {"name": "EEE 151", "credit": 3, "id": 120},
+                    {"name": "EEE 153", "credit": 3, "id": 121},
+                    {"name": " EEE 163", "credit": 2, "id": 122},
+                    {"name": "EEE 171", "credit": 2, "id": 123},
+                    {"name": "EEE 175", "credit": 2, "id": 124},
+                    {"name": "EEE 185", "credit": 3, "id": 125},
+                    {"name": "EEE 187", "credit": 3, "id": 126}
+                ]
+            },
+            {
+                "L-2-S-1": [
+                    {"name": "EEE 201", "credit": 3, "id": 127},
+                    {"name": "EEE 203", "credit": 3, "id": 128},
+                    {"name": "EEE 207", "credit": 2, "id": 129},
+                    {"name": "EEE 213", "credit": 2, "id": 130},
+                    {"name": "EEE 215", "credit": 2, "id": 131},
+                    {"name": "EEE 223", "credit": 3, "id": 132},
+                    {"name": "EEE 227", "credit": 3, "id": 133}
+                ]
+            },
+            {
+                "L-2-S-2": [
+                    {"name": "EEE 251", "credit": 3, "id": 134},
+                    {"name": "EEE 253", "credit": 3, "id": 135},
+                    {"name": " EEE 263", "credit": 2, "id": 136},
+                    {"name": "EEE 271", "credit": 2, "id": 137},
+                    {"name": "EEE 275", "credit": 2, "id": 138},
+                    {"name": "EEE 283", "credit": 3, "id": 139},
+                    {"name": "EEE 287", "credit": 3, "id": 140}
+                ]
+            },
+            {
+                "L-3-S-1": [
+                    {"name": "EEE 301", "credit": 3, "id": 141},
+                    {"name": "EEE 303", "credit": 3, "id": 142},
+                    {"name": "EEE 307", "credit": 2, "id": 143},
+                    {"name": "EEE 313", "credit": 2, "id": 144},
+                    {"name": "EEE 315", "credit": 2, "id": 145},
+                    {"name": "EEE 323", "credit": 3, "id": 146},
+                    {"name": "EEE 327", "credit": 3, "id": 147}
+                ]
+            },
+            {
+                "L-3-S-2": [
+                    {"name": "EEE 351", "credit": 3, "id": 148},
+                    {"name": "EEE 353", "credit": 3, "id": 149},
+                    {"name": " EEE 363", "credit": 2, "id": 150},
+                    {"name": "EEE 371", "credit": 2, "id": 151},
+                    {"name": "EEE 375", "credit": 2, "id": 152},
+                    {"name": "EEE 385", "credit": 3, "id": 153},
+                    {"name": "EEE 387", "credit": 3, "id": 154}
+                ]
+            },
+            {
+                "L-4-S-1": [
+                    {"name": "EEE 401", "credit": 3, "id": 155},
+                    {"name": "EEE 403", "credit": 3, "id": 156},
+                    {"name": "EEE 407", "credit": 2, "id": 157},
+                    {"name": "EEE 413", "credit": 2, "id": 158},
+                    {"name": "EEE 415", "credit": 2, "id": 159},
+                    {"name": "EEE 423", "credit": 3, "id": 160},
+                    {"name": "EEE 427", "credit": 3, "id": 161}
+                ]
+            },
+            {
+                "L-4-S-2": [
+                    {"name": "EEE 451", "credit": 3, "id": 162},
+                    {"name": "EEE 453", "credit": 3, "id": 163},
+                    {"name": " EEE 463", "credit": 2, "id": 164},
+                    {"name": "EEE 471", "credit": 2, "id": 165},
+                    {"name": "EEE 475", "credit": 2, "id": 166},
+                    {"name": "EEE 483", "credit": 3, "id": 167},
+                    {"name": "EEE 487", "credit": 3, "id": 168}
+                ]
+            }
+        ]
+    }
+]
+
